@@ -1,7 +1,7 @@
 - # Hi, I am Oumnia 👋
 - 👀 I’m a Machine Learning and Deep Learning enthusiast
 - 💞️ I’m looking to collaborate on ML or NLP (NLTK, TF-IDF, Naïve Bayes, Latent Dirichlet or RNNs) on open source projects
-- 📄 Know about my experiences: [Resume](https://drive.google.com/drive/folders/12UBd6Pby4sZaGjjWZY8fkU-cTJaVnIhX)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1DQ1eH206OdR7CqYiPTDDIRuscLswuahV/view?usp=sharing)
 - 📫 How to reach me : [LinkedIn](www.linkedin.com/in/oumnia-sadaouni)
 
 ## Skills:
@@ -15,3 +15,7 @@ generation.
 
 ## Soft skills: 
 - fast-learner, autonomous, curious, enthusiastic, joyful
+
+### Projects
+ele.GAN.t facades using cGan [here](https://ivy-caraway-b60.notion.site/ele-GAN-t-facades-project-d447b1b3d7584d71abb39c35c097f8dc) 
+
