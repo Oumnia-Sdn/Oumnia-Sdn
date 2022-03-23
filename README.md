@@ -1,7 +1,7 @@
 - # Hi, I am Oumnia 👋
 - 👀 I’m a Machine Learning and Deep Learning enthusiast
 - 💞️ I’m looking to collaborate on ML or NLP (NLTK, TF-IDF, Naïve Bayes, Latent Dirichlet or RNNs) on open source projects
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1EEjDpofwlD2AzW0ij6UBUVCY3MbSW3zT/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1bEo8ySpSiwIG7Vfly2V0w9A3Af3U67o9/view?usp=sharing)
 - 📫 How to reach me : [LinkedIn](www.linkedin.com/in/oumnia-sadaouni)
 
 ## Technical skills:
