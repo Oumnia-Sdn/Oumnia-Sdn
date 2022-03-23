@@ -17,5 +17,5 @@ generation.
 - fast-learner, autonomous, driven by continuous learning, enthusiastic, cheerful
 
 ### Projects
-ele.GAN.t facades using cGan [here](https://ivy-caraway-b60.notion.site/ele-GAN-t-facades-project-d447b1b3d7584d71abb39c35c097f8dc) 
+ele.GAN.t facades using cGan [here](https://www.notion.so/ele-GAN-t-facades-project-1de9ab0238cd4d30a0e95f5876740922) 
 
