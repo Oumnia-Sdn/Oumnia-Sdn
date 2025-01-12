@@ -1,20 +1,21 @@
 - # Hi, I am Oumnia 👋
-- 👀 I’m a Machine Learning and Deep Learning enthusiast
-- 💞️ I’m looking to collaborate on ML or NLP (NLTK, TF-IDF, Naïve Bayes, Latent Dirichlet or RNNs) on open source projects
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/10Y8WynNTVXMjng8yIEcRTambC44aDy3w/view?usp=drive_link)
+- 🚀 I’m a Data Scientist passionate about transforming data into actionable insights and building innovative AI-driven solutions
+- 🤖 Enthusiast of Machine Learning and Deep Learning, with a focus on both traditional algorithms and emerging AI techniques
+- 💡 Currently exploring Large Language Models (LLMs) and their applications, such as building systems that allow non-technical users to interact with data through natural language queries
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1_yAJHysSsOzggeeEOkAHY0tW3vJrbEX_/view?usp=drive_link)
 - 📫 How to reach me : [LinkedIn](www.linkedin.com/in/oumnia-sadaouni)
 
 ## Technical skills:
-- **_Data Sourcing & Analysis_** with NumPy and pandas: Sourcing data from CSV, databases (SQLite) , API (requests) or web (Beautiful Soup)
-- **_Visualizing_** data with seaborn and plotly
-- **_Machine Learning_** with scikit-learn: Pre-processing with transformers & pipeline. Linear & Logistic regression. KNN. SVM. Ensemble methods (decision trees, bagging, boosting, ...)
-- _**Time series**_ (SARIMA). NLP (NLTK, TF-IDF, Naïve Bayes, Latent Dirichlet)
-- _**Deep Learning** _with TensorFlow and Keras: Dense neural networks. CNN for image processing. RNN for time series and NLP (embedding with Word2Vec). GAN for images
-generation
--_**Data Engineering**_: CI with github, CD with Docker and Cloud Run, ML iteration with MLFlow, Scaling training with GCP. Front-end with Streamlit.
+- **Data Science & Analytics**: Expertise in data manipulation and analysis using **Pandas**, **NumPy**; data visualization with **Seaborn** and **Plotly**.
+- **Machine Learning**: Skilled in building predictive models with **Scikit-learn**, **XGBoost**, and **CatBoost**. Proficient in preprocessing, transformers, pipelines, classification, regression, and ensemble methods.
+- **Deep Learning**: Experience with **TensorFlow**, **Keras** for neural network models (Dense, CNNs for image analysis, RNNs for time series), **Word2Vec** embeddings, and **GANs** for image generation.
+- **Time Series Forecasting**: Utilizing advanced techniques like **Prophet**, **LSTM**, and **XGBoost** for accurate forecasting in business contexts such as demand and churn prediction.
+- **AI Systems**: Developing systems using **LLMs** to enable natural language queries that convert to SQL and interact with **Datalakes** for easy, non-technical data access.
+- **Data Engineering**: Proficient in building CI/CD pipelines using **GitHub**, **Docker**, **Cloud Run**, and **MLFlow** for model management. Scalable machine learning workflows on **Google Cloud Platform**.
 
-## Soft skills: 
-- fast-learner, autonomous, driven by continuous learning, enthusiastic, cheerful
+## Soft Skills:
+- Fast learner, autonomous, driven by continuous learning, enthusiastic, and collaborative.
+
 
 ### Projects
 ele.GAN.t facades using cGan [here](https://ivy-caraway-b60.notion.site/el-GAN-t-facades-project-b7b13cb43dfa4cc993e163859cd14336) 
